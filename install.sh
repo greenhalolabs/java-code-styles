@@ -12,4 +12,4 @@ done
 
 echo "Done."
 echo ""
-echo "Restart IntelliJ and/or AndroidStudio, go to preferences, and apply 'Square' or 'SquareAndroid'."
+echo "Restart IntelliJ and/or AndroidStudio, go to preferences, and apply 'Square', 'SquareAndroid', or 'SquareAndroid2'."
